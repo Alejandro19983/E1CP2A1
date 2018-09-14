@@ -50,3 +50,6 @@ body{
     position: relative;
     right: 112px;
 }
+.cont-valores h1 span{
+	margin-left: 50px;
+}
